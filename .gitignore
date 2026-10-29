@@ -56,3 +56,7 @@ Thumbs.db
 # large archives and junk
 mywebsite.zip
 zip
+.env
+node_modules
+*.zip
+dist
